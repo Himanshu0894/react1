@@ -1,0 +1,56 @@
+body {
+     background-color: cadetblue;
+}
+.header{
+    text-align: right;
+}
+.menu{
+    display:inline;
+    margin-right: 30px;
+
+}
+img{
+    border-radius: 50%;
+    margin-top: 50px;
+}
+.about{
+    margin-top: 50px;
+    float: right;
+}
+#files{
+    display: flex;
+    width: 100vw;
+}
+#achievement{
+    margin-left: 55px;
+     float: right;   
+}
+.skill{
+    margin-left: 55px;
+}
+.hobby{
+    margin-left: 55px;
+}
+.project{
+    margin-left: 75px;
+}
+#footer{
+    text-align: center;
+}
+span{
+    margin-right: 35px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    bottom: 0px;
+    right: 20px;
+}
